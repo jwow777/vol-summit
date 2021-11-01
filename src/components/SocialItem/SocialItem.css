@@ -1,0 +1,34 @@
+.social-item {
+  width: 90px;
+  height: 90px;
+}
+
+.social-item__image {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+}
+
+@media screen and (max-width: 1440px) {
+  .social-item {
+    width: 65px;
+    height: 65px;
+  }
+  
+  .social-item__image {
+    width: 65px;
+    height: 65px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .social-item {
+    width: 55px;
+    height: 55px;
+  }
+  
+  .social-item__image {
+    width: 55px;
+    height: 55px;
+  }
+}

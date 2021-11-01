@@ -1,0 +1,11 @@
+.modal__price-block {
+  display: grid;
+  grid-template-columns: 1fr max-content;
+  grid-gap: 15px;
+}
+
+.modal__price {
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 1.3;
+}

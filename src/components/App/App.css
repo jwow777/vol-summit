@@ -1,0 +1,34 @@
+.btn {
+  border: none;
+  outline: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.btn_blue {
+  background: #1D38DE;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: #fff;
+}
+
+.link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.image {
+  display: block;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.input {
+  outline: none;
+  border: none;
+  border-bottom: 1.5px solid #fff;
+}

@@ -1,0 +1,36 @@
+.release-item {
+  position: relative;
+  width: 66px;
+  height: 66px;
+}
+
+.release-item__image {
+  margin-top: -3px;
+  width: 76px;
+  height: 76px;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1440px) {
+  .release-item {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .release-item__image {
+    width: 55px;
+    height: 55px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .release-item {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .release-item__image {
+    width: 55px;
+    height: 55px;
+  }
+}

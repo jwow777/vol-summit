@@ -1,0 +1,125 @@
+{
+  "min": "min",
+  "date": "13 NOV",
+  "forWhom": "For whom",
+  "plan": "Plan",
+  "tickets": "Tickets",
+  "contacts": "Contacts",
+  "free": "Free",
+  "product": "Product",
+  "header": {
+    "title": "Wow, what’s VOL?",
+    "subtitle": "Global changes on internal corporate communications",
+    "tickets": "Tickets",
+    "adress": "Nov 13, 1:00 PM PDT, California",
+    "watch": "Watch the video"
+  },
+  "forWhoms": {
+    "first": {
+      "title": "For project managers, team leads and employees",
+      "subtitle": "How to solve the problem of information overload",
+      "list": {
+        "first": "+ Сomfor work",
+        "second": "+ Productivity",
+        "third": "+ Mutual understanding"
+      }
+    },
+    "second": {
+      "title": "For company executives",
+      "subtitle": "Find out how to accelerate your entire company",
+      "list": {
+        "first": "Higher returns to their shareholders",
+        "second": "Teams productivity",
+        "third": "When tools for internal communications are implemented"
+      }
+    },
+    "third": {
+      "title": "VC Funds & Angels",
+      "subtitle": "Why startups on the UC market are the most prospective now",
+      "list": {
+        "first": "World unified communications market size",
+        "second": "$93bln - 340 bln"
+      }
+    }
+  },
+  "release": {
+    "title": "Release",
+    "quote": "“I’ll tell you how VOL Team will change the global UC market in just a few years”",
+    "author": "Alex Tatarinov",
+    "position": "CEO & Founder of VOL"
+  },
+  "plans": {
+    "first": {
+      "textOne": "",
+      "textTwo": " on internal corporate communications",
+      "textGreen": "Global changes"
+    },
+    "second": {
+      "textOne": "How ",
+      "textTwo": " the entire global market of internal unified communications",
+      "textGreen": "VOL will change"
+    },
+    "third": {
+      "textOne": "Online ",
+      "textTwo": "",
+      "textGreen": "networking"
+    }
+  },
+  "ticket": {
+    "first": {
+      "title": "Online",
+      "list": {
+        "first": "From anywhere in the world.",
+        "second": "Conference recording",
+        "third": "Special offer"
+      },
+      "submit": "Get a ticket"
+    },
+    "second": {
+      "title": "Online",
+      "list": {
+        "first": "From anywhere in the world.",
+        "second": "Conference recording",
+        "third": "Special offer"
+      },
+      "submit": "Get a ticket"
+    },
+    "third": {
+      "title": "Online",
+      "list": {
+        "first": "From anywhere in the world.",
+        "second": "Conference recording",
+        "third": "Special offer"
+      },
+      "submit": "Get a ticket"
+    },
+    "fourth": {
+      "title": "VIP online+networking",
+      "price": "49$",
+      "list": {
+        "first": "Networking in special chat",
+        "second": "Conference recording",
+        "third": "Individual presentation of product"
+      },
+      "submit": "Buy"
+    }
+  },
+  "keep": {
+    "title": "Keep in touch",
+    "date": "Nov 13, 1:00 PM PDT, California",
+    "support": "VOL SUMMIT support:"
+  },
+  "form": {
+    "titleOne": "Online",
+    "titleTwo": "VIP online+networking",
+    "fullname": "Full name*",
+    "phone": "Phone*",
+    "email": "Email*",
+    "position": "Position*",
+    "policy": "I hereby agree to the Terms of processing of my personal data.",
+    "bot": "Or with superbot",
+    "priceTwo": "49$",
+    "getTicket": "Get a ticket",
+    "buyTicket": "Pay"
+  }
+}

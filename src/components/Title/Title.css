@@ -1,0 +1,48 @@
+.title {
+  position: relative;
+  margin-left: 75px;
+}
+
+.title__curcle {
+  position: absolute;
+  top: -35px;
+  left: -85px;
+  display: block;
+  width: 125px;
+  height: 125px;
+  background: #1D38DE;
+  border-radius: 50%;
+  z-index: 0;
+}
+
+.title__text {
+  position: relative;
+  font-weight: 700;
+  font-size: 75px;
+  line-height: 1.4;
+  margin: 0;
+  z-index: 1;
+}
+
+@media screen and (max-width: 1440px) {
+  .title {
+    margin-left: 50px;
+  }
+  
+  .title__curcle {
+    top: -25px;
+    left: -50px;
+    width: 80px;
+    height: 80px;
+  }
+  
+  .title__text {
+    font-size: 45px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .title__text {
+    font-size: 39px;
+  }
+}
